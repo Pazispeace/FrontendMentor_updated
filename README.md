@@ -19,7 +19,7 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [live solution](https://pazispeace.github.io/FrontendMentor_updated/)
+- Live Site URL: [live solution](https://pazispeace.github.io/frontendmentor_updated/)
 
 ## My process
 
