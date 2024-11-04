@@ -25,8 +25,6 @@
 
 ### Built with
 
-update site content
-
 - Semantic HTML5 markup
 - CSS custom properties
 - BEM methodology
